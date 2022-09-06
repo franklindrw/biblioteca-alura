@@ -2,9 +2,9 @@
   "name": "biblioteca-alura",
   "version": "1.0.0",
   "description": "API Rest de uma biblioteca fictícia, feita em Node com Express e mongoDB.",
-  "main": "index.js",
+  "main": "app.ts",
   "scripts": {
-    "start": "tsnd ./src/app.ts",
+    "start": "tsnd app.ts",
     "build": "tsc"
   },
   "repository": {
