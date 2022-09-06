@@ -1,0 +1,24 @@
+{
+  "name": "biblioteca-alura",
+  "version": "1.0.0",
+  "description": "API Rest de uma biblioteca fictícia, feita em Node com Express e mongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsnd ./src/app.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklindrw/biblioteca-alura.git"
+  },
+  "author": "franklindrw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franklindrw/biblioteca-alura/issues"
+  },
+  "homepage": "https://github.com/franklindrw/biblioteca-alura#readme",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.2"
+  }
+}
