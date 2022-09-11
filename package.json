@@ -5,7 +5,8 @@
   "main": "app.ts",
   "scripts": {
     "dev": "tsnd server.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "preview": "node ./dist/server.js"
   },
   "repository": {
     "type": "git",
